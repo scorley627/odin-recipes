@@ -1,0 +1,36 @@
+body {
+  background-color: antiquewhite;
+}
+
+h1 {
+  background-color: rgb(76, 76, 236);
+  color: rgb(247, 232, 212);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  background-color: rgb(240, 217, 185);
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1.recipe_title {
+  font-size: 30px;
+}
+
+li.recipe {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+a.home {
+  font-size: 20px;
+  text-align: center;
+  display: block;
+}
