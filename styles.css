@@ -27,10 +27,19 @@ h1.recipe_title {
 
 li.recipe {
   font-size: 20px;
+  background-color: rgb(76, 76, 236);
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 2px solid black
 }
 
 a.home {
   font-size: 20px;
   text-align: center;
   display: block;
+}
+
+li.recipe a {
+  color: rgb(247, 232, 212);
 }
